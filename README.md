@@ -1,3 +1,3 @@
-# Sourdough
+# Sourdough Squad
 
-My favorite sourdough recipes!
+All things sourdough from recipes to troubleshooting!
