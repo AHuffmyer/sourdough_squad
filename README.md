@@ -1,5 +1,5 @@
 # Sourdough Squad
 
-## **Scientists who sourdough** 
+### **Scientists who sourdough** 
 
 All things sourdough from recipes to troubleshooting!
