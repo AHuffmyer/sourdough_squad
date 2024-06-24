@@ -48,4 +48,4 @@ For toppings after cooking:
 14. Brush with ghee and add garlic, cilantro, and sea salt or any other desired toppings. 
 15. Eat fresh or store in plastic bag at room temperature for ~2 days or freeze for longer storage. 
 
-  
+![IMG_3752](https://github.com/AHuffmyer/sourdough_squad/assets/32178010/eb905e01-dabc-4237-b9da-cf22d000a2e2)
