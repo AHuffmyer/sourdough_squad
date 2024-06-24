@@ -45,6 +45,22 @@ This recipe is based on a recipe from [The New York Times](https://cooking.nytim
 
 *For example, I start my starter Friday night and make the dough on Saturday. Then I have bread to bake on Sunday!*  
 
+## Maintaining and feeding starter
+
+Before we get to the recipe, a note on maintaining your starter... 
+
+Every 1-2 weeks, be sure to feed your starter. If you are going to make bread or another recipe that requires active starter, just follow the steps outlined below. If you are not wanting to make a recipe and just want to keep your starter alive, use the following ratios: 
+
+- 25g inactive starter (from your fridge)
+- 50g white bread flour
+- 50g lukewarm water
+
+Mix and then put back in the fridge. In about 1-2 weeks, it will be ready to use to make active starter (below), or ready for another feeding.  
+
+This will keep your starter going in between batches of baking. Note that you can also feed your starter and keep on the counter overnight - the next morning you will have nice starter for pancakes, waffles, or anything else you'd like to make! 
+
+## Recipe 
+
 ### Day 1 evening: Prepare starter  
 
 - If you do not have a starter, refer to recipes on making a starter from scratch, or obtain some starter from a bakery. 
@@ -240,7 +256,7 @@ This recipe is based on a recipe from [The New York Times](https://cooking.nytim
 
 - Use a kitchen brush to gently brush off excess flour. 
 - If you want to add seeds to your loaf, spray with water using a water bottle sprayer. 
-- 	Next, sprinkle poppy seeds or sesame seeds over your loaf. If you don’t want to use seeds, skip adding the water and seeds. 
+- 	Next, sprinkle poppy seeds or sesame seeds over your loaf. If you don’t want to use seeds, skip adding the seeds. I like to still spray with water to give it a little extra steam while baking.  
 
 ![](https://github.com/AHuffmyer/sourdough_squad/blob/main/Bread/images/Picture39.jpg?raw=true)
 
@@ -266,18 +282,14 @@ This recipe is based on a recipe from [The New York Times](https://cooking.nytim
 - Bake for an additional 30-40 minutes. Bake until the crust is a deep golden brown. The bread will not dry out - ensure that you give it enough time to bake through and give you a nice dark crust! 
 - Take the bread out and use the parchment paper to lift it onto a cooling rack. 
 - Place the pan and the lid back in the oven and preheat again to 500°F for the next loaf.
-
-![](https://github.com/AHuffmyer/sourdough_squad/blob/main/Bread/images/Picture45.jpg?raw=true)
-
-![](https://github.com/AHuffmyer/sourdough_squad/blob/main/Bread/images/Picture46.jpg?raw=true)
-
 - Repeat the baking process. 
 - Ensure that you give the dough AT LEAST 2 hours to cool before cutting into it. 
 - Slice and enjoy! I recommend slicing what you would like to eat over the next 2 days and keeping it in a bread pag or covered with a kitchen towel in a bowl. Slice the rest of the bread after baking and store it in a freezer bag in the freezer. After you use your fresh slices you will then have bread in the freezer ready to go. Just toast a frozen slice and it’ll taste as fresh as the first day! 
 
-![](https://github.com/AHuffmyer/sourdough_squad/blob/main/Bread/images/Picture47.jpg?raw=true)
+![IMG_4614](https://github.com/AHuffmyer/sourdough_squad/assets/32178010/7a3e4c33-1dad-4528-bce3-8cc4cf498a75)
+![IMG_4617](https://github.com/AHuffmyer/sourdough_squad/assets/32178010/57659c49-6384-437e-a364-5fb4aa6486d0)
+![IMG_5106](https://github.com/AHuffmyer/sourdough_squad/assets/32178010/1a8a1bf9-208d-48e3-b99a-f41109a48286)
 
-![](https://github.com/AHuffmyer/sourdough_squad/blob/main/Bread/images/Picture48.jpg?raw=true)
 
 ## Trouble shooting common problems
 
@@ -298,7 +310,7 @@ Here are some problems I’ve had before - hopefully these notes can help!
 -	You may try adding an hour or two to your proofing time to give it more rise. 
 -	Make sure your oven and pan are super hot before baking your bread. 
 -	If you aren’t baking in a dutch oven with a lid, you will not get much of a rise since the steam is allowed to escape. Try using a dutch oven with a lid. 
--	Make sure you are using a strong and healthy starter that is fully ready before adding to your dough. 
+-	Make sure you are using a strong and healthy starter that is fully ready before adding to your dough. You may need to feed your starter over a couple rounds if it has been in the fridge for a long time to get it started.   
 
 **The bread isn’t sour enough.**
  
@@ -306,8 +318,8 @@ Here are some problems I’ve had before - hopefully these notes can help!
 
 **The bread is too crumbly or too dense.** 
 
-- When you cut open your bread, you should see some large, irregular air pockets throughout the loaf. In between the big holes should be irregular small holes (see picture of my loaf above). No portion of the bread should be dense or without air holes. If you have large air holes between the crust and the bread this is an indicator that your bread is under proofed or that the starter wasn’t active. 
-- Double check your water and flour measurements to make sure the dough is hydrated. 
+- When you cut open your bread, you should see some large, irregular air pockets throughout the loaf (see photos above). In between the big holes should be irregular small holes). No portion of the bread should be dense or without air holes. If you have large air holes between the crust and the bread this is an indicator that your bread is under proofed or that the starter wasn’t active. 
+- Double check your water and flour measurements to make sure the dough is hydrated. If you aren't using a kitchen scale I highly recommend getting one.  
 - Try adding 1-2 hours of proofing time. 
 - Also take a look at your starter, if your starter isn’t active or strong enough, it may cause texture problems. Almost all sourdough problems have something to do with the starter or the proofing time!
 - If you want even more open texture in your bread, you can experiment with adding 1-2% more water content. The bread will be harder to handle, but will bake with lighter texture!
