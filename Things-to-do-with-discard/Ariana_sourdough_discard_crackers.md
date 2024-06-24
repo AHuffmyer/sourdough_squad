@@ -43,4 +43,4 @@ For the seasoning:
 15. Store airtight at room temperature for up to a week or in the freezer for long term storage.  
 16. Dip in hummus, top with brie, or anything else you can think of! 
 
-  
+![IMG_3750](https://github.com/AHuffmyer/sourdough_squad/assets/32178010/42694d97-0d2e-41d8-bccf-a3ae8a10afba)
