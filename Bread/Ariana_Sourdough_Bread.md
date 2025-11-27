@@ -14,6 +14,7 @@ This recipe is based on a recipe from [The New York Times](https://cooking.nytim
 - White rice flour
 - Poppy seeds or sesame seeds (optional)
 - Corn meal 
+- *Optional*: 70-80g gochujang for a single flavored loaf 
 
 ## Supplies 
 
@@ -96,6 +97,7 @@ This will keep your starter going in between batches of baking. Note that you ca
 - Add 200g of starter to the dough and mix by hand until incorporated. 
 - Add 20g warm water and 20g salt on to the dough and mix by hand until incorporated. You will notice the dough will be wet at first, and once fully mixed the dough will absorb the moisture. 
 - Let sit for 20-30 minutes. 
+- Split the dough into two if you are flavoring one loaf. Here, you can add mix ins such as 80g gochujang to one of the loaves. Experiment with flavors! 
 - Mix the dough by hand for 10-20 minutes by hand. Wet your hand first. To mix, grab one side of the dough and stretch upwards until you feel tension and before it starts to break. Fold over the rest of the dough. 
 
 ![](https://github.com/AHuffmyer/sourdough_squad/blob/main/Bread/images/Picture4.jpg?raw=true) 
